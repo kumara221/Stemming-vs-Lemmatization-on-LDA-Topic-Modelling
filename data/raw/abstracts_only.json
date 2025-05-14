@@ -88,5 +88,5 @@
     },
        {
         "abstract": "With today’s computer networks becoming increasingly dynamic, heterogeneous, and complex, there is great interest in deploying artificial intelligence (AI) based techniques for optimization and management of computer networks. AI techniques—that subsume multidisciplinary techniques from machine learning, optimization theory, game theory, control theory, and meta-heuristics—have long been applied to optimize computer networks in many diverse settings. Such an approach is gaining increased traction with the emergence of novel networking paradigms that promise to simplify network management (e.g., cloud computing, network functions virtualization, and software-defined networking) and provide intelligent services (e.g., future 5G mobile networks). Looking ahead, greater integration of AI into networking architectures can help develop a future vision of cognitive networks that will show network-wide intelligent behavior to solve problems of network heterogeneity, performance, and quality of service (QoS)."
-    },
+    }
 ]
