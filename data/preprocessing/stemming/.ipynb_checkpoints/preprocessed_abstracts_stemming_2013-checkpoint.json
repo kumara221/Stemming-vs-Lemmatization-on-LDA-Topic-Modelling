@@ -1,0 +1,266 @@
+[
+  {
+    "year": "2013",
+    "abstract": "aircraft electr power system one supervisori control unit actuat set electromechan switch dynam distribut power gener load satisfi safeti reliabl realtim perform requir reduc expens redesign step control problem gener address minor increment chang top consolid solut systemat approach hinder lack rigor design methodolog allow estim impact earlier design decis final implement achiev optim implement satisfi set requir propos platformbas methodolog electr power system design enabl independ implement system topolog ie interconnect among element control protocol use composit approach flow design space explor carri sequenc refin step initi specif toward final implement map higher level behavior perform model set either exist virtual librari compon lower level abstract specif first express use formal linear tempor logic signal tempor logic arithmet constraint boolean variabl reason differ requir use special analysi synthesi framework formul assum guarante contract articul point design flow show effect approach proofofconcept electr power system design"
+  },
+  {
+    "year": "2013",
+    "abstract": "one main featur adapt system oscillatori converg exacerb speed adapt recent shown closedloop refer model crm result improv transient perform openloop counterpart model refer adapt control paper quantifi transient perform classic adapt system improv crm addit deriv bound norm deriv adapt paramet shown smaller optim design crm propos minim underli peak phenomenon analyt tool propos shown applic rang adapt control problem includ direct control composit control observ feedback presenc crm adapt backstep adapt robot control also discuss simul result present throughout paper support theoret deriv"
+  },
+  {
+    "year": "2013",
+    "abstract": "paper explor effect tempor surfaceillumin properti twocompon composit consist inclus regularlyand irregularlyshap crystal matrix timedomain electromagnet model use finit integr techniqu use calcul scatter paramet effect rel permitt calcul shown orient inclus high permitt contrast affect effect electr permitt composit mixtur low high contrast inclus field local edg corner irregular inclus manner depend boundari condit use simul"
+  },
+  {
+    "year": "2013",
+    "abstract": "multilevel gener assign problem mgap consist minim assign cost set job machin associ therewith capac constraint machin perform job differ effici level entail differ cost amount resourc requir mgap introduc context larg manufactur system gener variant wellknown gener assign problem singl effici level associ machin paper propos branchandcut algorithm whose core exact separ procedur multiplechoic knapsack polytop induc capac constraint singlelevel execut constraint comput experi set benchmark instanc report show effect propos approach"
+  },
+  {
+    "year": "2013",
+    "abstract": "kinect system arguabl popular camera technolog current market applic domain vast deploy scenario accur geometr measur need regard primesens technolog limit amount work devot calibr kinect especi depth data kinect howev inevit prone distort independ confirm numer user effect method improv qualiti kinect system model sensor systemat error use bundl adjust paper method model intrins extrins paramet infrar colour camera importantli distort depth imag present integr markerand featurebas selfcalibr two kinect calibr novel approach model depth systemat error function len distort rel orient paramet shown effect result show improv geometr accuraci compar uncalibr point cloud captur use popular softwar rgbdemo systemat depth discontinu also reduc checkplan analysi nois kinect point cloud reduc"
+  },
+  {
+    "year": "2013",
+    "abstract": "biometr templat age defin increas recognit error rate increas time sinc enrol believ templat age occur iri recognit sever research group howev recent report experiment result show iri templat age occur templat age effect manifest shift authent distribut result increas fals nonmatch rate analyz result threeyear timelaps data set increas fals nonmatch rate decis threshold repres one two million fals match rate summar sever known element eye age could contribut templat age includ agerel chang pupil dilat final discuss variou step control templat age effect typic ident verif applic"
+  },
+  {
+    "year": "2013",
+    "abstract": "present associ editor ieee access"
+  },
+  {
+    "year": "2013",
+    "abstract": "paper new approach toward design memristor base nonvolatil static randomaccess memori sram cell use combin memristor metaloxid semiconductor devic propos memristor mosfet taiwan semiconductor manufactur compani technolog use form singl cell predict area cell significantli less averag power convent sram cell complementari metaloxid semiconductor technolog read time much less sram cell howev write time bit higher improv increas mobil memristor nonvolatil characterist cell make attract nonvolatil random access memori design"
+  },
+  {
+    "year": "2013",
+    "abstract": "paper suggest realvalu spars represent method use unitari transform convert complexvalu manifold matric uniform circular array real one transform comput complex modifi simul result confirm effect propos method circular array radar"
+  },
+  {
+    "year": "2013",
+    "abstract": "influenc intermedi band ib fill absorpt coeffici constant ib posit effici quantum dot intermedi band solar cell qdibsc investig consid spatial variat subbandgap gener rate new definit optim intermedi band fill propos mathemat model develop optim intermedi band solar cell ibsc structur ideal condit calcul optim ratio subbandgap absorpt coeffici constant optim posit ib"
+  },
+  {
+    "year": "2013",
+    "abstract": "paper new ordinari differenti equat numer integr method success appli variou mathemat branch partial differenti equat pde boundari problem pde initialboundari problem tough nonlinear equat forth new method use jacobian handl larg system say dimens even larger addit give simpl acceler converg approach linear algebra equat aris linear pde boundari problem numer result show new method promis super larg scale system"
+  },
+  {
+    "year": "2013",
+    "abstract": "recent propos dual mode logic dml gate famili enabl high level energydelay optim flexibl gate level paper flexibl util improv energi effici perform combinatori circuit manipul critic noncrit path approach locat design critic path oper path boost perform mode propos noncrit path oper low energi dml mode affect perform design allow signific energi consumpt reduct propos approach analyz bit carri skip adder simul carri standard nm digit cmo process show propos approach allow perform improv along reduct energi consumpt compar standard cmo implement improv perform energi achiev respect"
+  },
+  {
+    "year": "2013",
+    "abstract": "data set continu grow size visual becom vital import tool extract meaning knowledg scatter point data unord set point coordin associ measur valu aris mani context scientif experi sensor network numer simul paper present method visual scatter point data set method base volum ray cast distinguish oper directli unstructur sampl rather resampl form voxel estim intens volum point along ray interpol use nearbi sampl take advantag octre facilit effici rang search method implement multicor cpu gpu well multigpu system sourc code avail bsd licens athttp githubcomacelsterscatterptvizto test method actual xray diffract data set use consist million data point abl gener imag good qualiti achiev interact frame rate favor case gpu implement nvidia tesla achiev speedup compar parallel cpu version hyperthread intel k"
+  },
+  {
+    "year": "2013",
+    "abstract": "two turnkey surfac potentialbas compact model develop simul multig transistor integr circuit ic design bsimcmg commonmultig model develop simul doubl tripl allaroundg finfet select world first industrystandard compact model finfet bsimimg independentmultig model develop independ doubleg ultrathin bodi utb transistor captur dynam threshold voltag adjust back gate bia start longchannel devic basic model first obtain use poissoncarri transport approach basic model agre result numer twodimension devic simul realdevic effect augment basic model import realdevic effect shortchannel effect sce quantum mechan confin effect mobil degrad parasit includ model bsimcmg bsimimg valid hardwar siliconbas data multipl technolog develop model also meet stringent qualiti assur test expect product level model"
+  },
+  {
+    "year": "2013",
+    "abstract": "manual creation complex structur use engin analysi major obstacl analyz physic realist structur bia invari impos mixtur manual compos structur rare repres process composit fabric properti pack densiti anisotropi seem easili occur natur difficult obtain manual arrang paper address creation complex mixtur compris crystal embed matrix subsequ electromagnet em analysi physic realist arrang crystal facilit use physic engin softwar specif bullet physic librari render realist effect advanc comput game composit mixtur crystal creat pour seri random crystal box crystal bounc align real world higher pack densiti obtain reason obtain manual construct arrang obtain crystal reflect real world align asymmetr crystal composit creat use em simul softwar investig energi local materi"
+  },
+  {
+    "year": "2013",
+    "abstract": "comprehens equat natur physic system includ electr magnet mass wave interact long object engin scientist dynam energi appear one possibl techniqu method mathemat use curv space vector greatli reduc calculu vector relationship cyclic time refer time identifi diffus relationship develop potenti describ higg field diffus defin term volum gradient vari refer time judici definit dynam energi diffus also direct relationship electr charg magnet wave photon mass"
+  },
+  {
+    "year": "2013",
+    "abstract": "softwar develop stakehold project often collabor asynchron share artifact traceabl system link project artifact therefor provid support collabor among stakehold differ stakehold interest differ type traceabl link literatur often state traceabl use expens build maintain howev studi show reduct effort traceabl link among variou softwar artifact provid use mainten phase paper present studi evalu benefit use traceabl among requir design code code inspect build defect test artifact mainten phase studi survey conduct larg industri firm determin type link differ stakehold interest twentyf stakehold firm particip survey defin type traceabl link interest result traceabl link model propos categor differ type traceabl link base stakehold role link model use studi twentyeight subject industri academia particip empir studi conduct survey prototyp linktrac tool tracelink develop use studi present traceabl link experiment group wherea control group given link solv task five mainten task use studi result show signific improv task accuraci traceabl link given subject conclus traceabl model base industri survey provid traceabl view base stakehold role empir studi provid evid traceabl link effect solv mainten task higher accuraci"
+  },
+  {
+    "year": "2013",
+    "abstract": "paper concern model network extrem larg number compon use partial differenti equat pde model method base converg sequenc underli markov chain network index byn number compon network asngo infin sequenc converg continuum limit solut certain pde provid suffici condit converg character rate converg applic model larg wireless sensor network pde tradit mont carlo simul extrem larg network practic infeas pde solv reason comput overhead use wellestablish mathemat tool"
+  },
+  {
+    "year": "2013",
+    "abstract": "paper deal design evalu novel dynam random access memori dram cell oxidebas resist element ad nonvolatil oper two exist dram cell name cell util volatil core rram circuitri consist access control transistor oxid resist ram ad core extend oper nonvolatil oper two nvdram cell propos consider threshold voltag refresh oper output read circuitri also consid impact nonvolatil circuitri well dram core select assess hspice simul figur merit relat perform process variabl power consumpt circuit design critic charg area cell layout establish volatil nonvolatil dram cell well memori array"
+  },
+  {
+    "year": "2013",
+    "abstract": "better understand degrad mode rate photovolta pv modul necessari optim extend lifetim modul lifetim degrad scienc l ds use understand degrad mode mechan rate materi compon system predict lifetim pv modul pv modul lifetim degrad scienc pvm l ds model essenti compon predict lifetim mitig degrad pv modul use reproduc open data scienc previous publish acceler test data underwrit laboratori pv modul fluorin polyest backsheet includ eight modul expos hr damp heat rel humid eight expos hr ultraviolet light nm wavelength uv precondit use determin statist signific relationship appli stress measur respons differ variabl track aspect system perform degrad mechan compon metric time modul analyz three system perform metric fill factor peak power wet insul result statist analyz identifi variabl transform statist signific relationship ssr develop pvm l ds model inform gener structur equat model techniqu ssr signific model coeffici combin domain analyt incorpor materi scienc chemistri physic expertis produc pathway diagram rank variabl impact system perform iter examin use sound statist analysi diagnost ssr determin damp heat exposur system respons pmax correspond degrad pathway polyest terephthal pet ethylen vinyl acet eva hydroli"
+  },
+  {
+    "year": "2013",
+    "abstract": "multiobject robot explor constitut one challeng task autonom robot perform variou oper differ environ howev optim explor path depend heavili object constraint oper environ introduc typic environ constraint includ partial known complet unknown workspac limitedbandwidth commun spars dens clatter space environ explor robot must satisfi addit oper constraint includ timecrit goal kinemat model resourc limit find optim explor path multipl constraint object constitut challeng nonconvex optim problem approach model environ constraint cost function util cognitivebas adapt optim algorithm meet timecrit object explor path produc optim sens global minim requir time well maxim explor area partial unknown workspac sinc obstacl sens oper initi path possibl block lead robot entrap supervisor trigger signal block passag subsequ escap basin cost function local minimum extens simul comparison typic scenario present show effici propos approach"
+  },
+  {
+    "year": "2013",
+    "abstract": "present doodb doodl databas contain data user captur touch screenen mobil devic realist condit follow systemat protocol databas contain two corpora doodl pseudosignatur simplifi fingerdrawn version handwritten signatur dataset includ genuin sampl forgeri produc worstcas condit attack visual access draw process statist qualit analyz data present compar doodl pseudosignatur handwritten signatur time variabl learn curv discrimin power differ featur also studi verif perform forgeri analyz use stateoftheart algorithm benchmark result provid"
+  },
+  {
+    "year": "2013",
+    "abstract": "nanoslit capabl perform versatil function nanophoton applic invit paper discuss physic manipul method surfac plasmon excit direct switch nanoslit furthermor enhanc light intens pass nanoslit employ embed metal nanoisland experiment present numer analyz"
+  },
+  {
+    "year": "2013",
+    "abstract": "enhanc direct fronttoback ratio ftbr metamaterialinspir electr small linearli polar coaxiallyf egyptian axe dipol antenna consid accomplish particular augment origin nearfieldresonantparasit nfrp antenna addit nfrp element small disc conductor modifi two meanderlineshap slot entir system evalu numer two independ comput electromagnet simul optim result demonstr electr small antenna ie ka reason low profil ie height improv direct db increas ftbr db maintain larg halfpow beamwidth radiat effici nearli complet match \u03c9 sourc"
+  },
+  {
+    "year": "2013",
+    "abstract": "open dynam multiag system mass agent often need reli resourc servic provid agent accomplish goal process agent expos risk exploit other risk mitig caus seriou breakdown oper mass threaten longterm wellb protect agent uncertainti behavior interact partner ageold mechan trust human be recontext mass basic idea let agent selfpolic ma rate basi observ behavior base futur interact decis inform past decad larg number trust manag model propos howev lack research effort sever key area critic success trust manag mass human be agent coexist purpos paper give overview exist research trust manag mass analyz exist trust model game theoret perspect highlight special implic includ human be ma propos possibl research agenda advanc state art field"
+  },
+  {
+    "year": "2013",
+    "abstract": "import progress made mani research extract fundament design principl pattern design paramet along nondomin front gener evolutionari algorithm biobject optim problem howev best knowledg attent given discov design principl wealth addit inform avail pattern domin solut explor use heatmap domin solut visual relev variabl selforgan respect object throughout feasibl region overlay ceteri paribu line heatmap show object valu chang given design variabl vari other held constant use three biobject optim problem demonstr variou way visual techniqu provid addit use inform beyond determin nondomin front specif investig simpl twomemb truss design problem simpl weld beam design problem realworld watersh manag design problem illustr principl deriv nondomin front alon mislead new principl deriv domin solut nondomin solut often fragil respect assumpt uncertain extern forc condit wherea solut short distanc insid front often much robust"
+  },
+  {
+    "year": "2013",
+    "abstract": "high complex numer optim classic commun scheme maximum likelihood ml multius detector mud often prevent practic implement paper present extens review tutori quantum search algorithm qsa potenti applic employ qsa find minimum function order perform optim hard mud quadrat reduct comput complex compar ml mud furthermor follow quantum approach achiev perform optim softinput softoutput classic detector replac quantum algorithm estim weight sum function evalu propos softinput softoutput quantumassist mud qmud scheme quantumdomain equival ml mud demonstr applic use design exampl directsequ code divis multipl access system employ bitinterleav code modul reli iter decod compar optim ml mud term perform complex extrins inform transfer chart bit error ratio curv show perform propos qmud optim classic mud equival qmud comput complex significantli lower"
+  },
+  {
+    "year": "2013",
+    "abstract": "present editori board ieee access"
+  },
+  {
+    "year": "2013",
+    "abstract": "adapt ark method multigeneralpurpos graphic process unit gpu use solv larg nonlinear system firstord ordinari differenti equat ode describ larg genet network system biolog biolog clock carri comput trajectori system hierarch structur ode exploit ark solver implement comput unifi devic architecturec cudac gpu result speedup calcul independ modul within genet network describ clock function rel compar cpu architectur modul span onequart entir genom model fungal system neurospora crassa power gpu principl har use warplevel parallel instruct level parallel sinc ark ode solver entir sequenti propos new parallel process algorithm use warplevel parallel belong larg genet network describ clock genomelevel dynam video attach illustr gener idea method gpu use provid new insight biolog clock singl cell measur clock"
+  },
+  {
+    "year": "2013",
+    "abstract": "global bandwidth shortag face wireless carrier motiv explor underutil millimet wave mmwave frequenc spectrum futur broadband cellular commun network howev littl knowledg cellular mmwave propag dens popul indoor outdoor environ obtain inform vital design oper futur fifth gener cellular network use mmwave spectrum paper present motiv new mmwave cellular system methodolog hardwar measur offer varieti measur result show ghz frequenc use employ steerabl direct antenna base station mobil devic"
+  },
+  {
+    "year": "2013",
+    "abstract": "organ healthcar qualiti improv collabor qic team practition differ hospit exchang inform clinic practic aim improv health outcom institut howev work one hospit may work other differ local context nonlinear interact among variou demograph treatment practic previou studi collabor goal collect problem solv team divers individu shown outperform team similar individu howev purpos collabor knowledg diffus complex environ clear whether team divers help hinder effect learn paper first use agentbas model qic show team compris similar individu outperform divers individu nearli condit advantag increas complex landscap level nois assess perform examin data network real hospit provid encourag evid high degre similar clinic practic especi within team hospit engag qic team howev model also suggest group similar hospit could benefit larger team open share detail clinic outcom current norm facilit propos secur virtual collabor system would allow hospit effici identifi potenti better practic use institut similar without institut sacrific privaci data result may also implic type datadriven diffus learn person medicin evolutionari search noisi complex combinatori optim problem"
+  },
+  {
+    "year": "2013",
+    "abstract": "paper provid overview main featur sever bibliometr indic propos last decad pro con highlight compar featur wellknown impact factor show altern metric specif design address flaw shown especi last year also report result recent studi bibliometr literatur show scientif impact journal evalu bibliometr complic matter complet unrealist tri captur singl indic conclud adopt metric complementari featur assess journal qualiti would benefici would offer comprehens balanc view journal space scholarli public well elimin pressur individu incent metric manipul unintend result current mi use gold standard public qualiti"
+  },
+  {
+    "year": "2013",
+    "abstract": "incomplet specif new product common result unreli product costli scope creep design chang design failur use lesson learn result high reliabl significantli lower warranti cost quickest way make use lesson learn learn heurist short statement base wisdom lesson learn mani product articl cover exampl show heurist appli success product"
+  },
+  {
+    "year": "2013",
+    "abstract": "present editori initi publicaiton ieee access detail mission scope public"
+  },
+  {
+    "year": "2013",
+    "abstract": "digit evid increasingli use jurid proceed recent legal case verdict strongli influenc digit evid proffer defens digit trace left comput phone digit camera also remot machin belong isp telephon provid compani provid servic via internet youtub facebook gmail paper present methodolog autom product predetermin digit evid leverag forg digit alibi base use autom program meant simul common user activ addit want trace autom may produc number unwant trace may disclos upon digit forens analysi includ data reman suspici file well kind log gener oper system modul servic propos methodolog describ process design implement execut autom target system properli handl want unwant evid mani experi differ combin autom tool oper system conduct paper present implement methodolog vbscript window forens analysi target system suffici reveal alibi forg autom consider emphas differ digit tradit evid digit evid alway circumstanti therefor consid relev support stronger evid collect tradit investig techniqu thu court verdict base sole digit evid"
+  },
+  {
+    "year": "2013",
+    "abstract": "paper provid design implement control quadrotor unman aerial vehicl uav quadrotor uav underactu rigid bodi four propel gener forc along rotor axe four forc use achiev asymptot track four output name posit center mass uav head perfect knowledg plant paramet measur nois magnitud error shown exponenti converg zero case parametr uncertainti measur nois control yield exponenti decreas magnitud error sens word control design minim plant respect disturb perform control evalu experi compar relat robust nonlinear control literatur experiment data show propos control reject persist disturb quantifi small magnitud mean error"
+  },
+  {
+    "year": "2013",
+    "abstract": "mix model provid novel approach analysi radar track residu consid random differ sourc properli consid random mix model provid greater power determin statist signific variou paramet need radar calibr paper appli mix model approach analysi radar track residu calibr satellit observ cobra dane radar find time depend bia azimuth residu"
+  },
+  {
+    "year": "2013",
+    "abstract": "cellular network current experienc tremend growth data traffic cope demand close cooper academ research industrystandard expert necessari hardli exist practic paper tri bridg gap research engin provid review current standardrel research effort wireless commun system furthermor give overview attempt facilit exchang inform result research engin via common simul platform long term evolut lte correspond webforum discuss often especi signal process reproduc result research tediou task assumpt paramet clearli specifi hamper consider stateoftheart research standard process also practic constraint impair impos technolog restrict wellknown physic phenomena eg signal overhead synchron issu channel fade often disregard research simplic mathemat tractabl henc evalu relev research result practic condit often difficult circumv problem develop standardcompli opensourc simul platform lte enabl reproduc research welldefin environ demonstr innov research confin framework realworld standard possibl sometim even encourag exampl research work investig potenti sever import research area typic practic condit highlight consist well differ theori practic"
+  },
+  {
+    "year": "2013",
+    "abstract": "mani oper militari polic rescu field oper requir local servic onlin situat awar make effect question mani peopl insid build locat essenti paper onlin local situat awar system present call mobil urban situat awar system musa gather maintain local inform form common oper pictur musa provid multipl local servic well visual sensor data common frame refer inform common oper pictur system convey parti involv oper field team peopl command post paper gener system architectur enabl local base situat awar design musa system solut present develop subsystem compon form common oper pictur summar futur potenti system variou scenario discuss demonstr musa deploy unknown build ad hoc fashion provid situat awar urban indoor militari oper"
+  },
+  {
+    "year": "2013",
+    "abstract": "exploit parallel multiprocessor system major challeng modern comput scienc multicor program demand chang way design use fundament data structur standard collect data structur algorithm sequenti standard templat librari stl paper present vision theori practic design implement collect highli concurr fundament data structur multiprocessor applic develop associ program interfac advanc optim support specif propos approach provid familiar easytous compos interfac similar c stl contain type enhanc intern support nonblock synchron data access therebi provid better safeti perform tradit block synchron elimin hazard deadlock livelock prioriti invers highli scalabl support larg number thread new librari lockless containersdata concurr provid algorithm handl fundament comput multithread context incorpor librari familiar look feel propos approach provid immens boost perform softwar reus consequ product develop scientif system applic predominantli cc stl wide use concurr replac librari immedi practic relev signific impact varieti parallel program domain includ simul massiv data mine comput biolog financi engin embed control system proofofconcept paper discuss first design implement waitfre hash tabl"
+  },
+  {
+    "year": "2013",
+    "abstract": "paper report latest technolog advanc made industri technolog research institut itri flexibl display especi flexibl substrat thinfilm transistor tft backplan activ matrix organ lightemit diod display use lead cholester liquid crystal technolog itri develop rewrit environment friendli thermal printabl epap epap devis reduc tradit paper consumpt achiev high resolut dpi memori function addit report itri initi success demonstr complet process multisens touch panel flexibl glass substrat provid corn"
+  },
+  {
+    "year": "2013",
+    "abstract": "signal process concept signaltonois ratio snr role perform measur recast within gener context inform theori lead seri use insight establish gener snr gsnr rigor inform theoret measur inher set observ significantli strengthen quantit perform pedigre simultan provid specif definit gener condit turn directli lead consider log likelihood ratio llr first simplest possibl informationpreserv transform ie signal process algorithm subsequ absolut compar measur inform specif observ exemplar inform account methodolog result permit practic use gsnr llr diagnost scalar perform measur directli compar across altern systemalgorithm design applic tap point within process string form also compar inher perform bound due inform conserv"
+  },
+  {
+    "year": "2013",
+    "abstract": "team robot deploy accomplish task maintain viabl adhoc network capabl support data transmiss necessari task fulfil solv problem necessit estim wireless propag environ identifi viabl pointtopoint commun link determin endtoend rout support data traffic motion control algorithm navig spatial configur guarante requir minimum level servic therefor present method estim pointtopoint channel use pathloss spatial gaussian process model data rout determin suitabl endtoend commun rout given estim pointtopoint channel rate motion plan determin robot trajectori restrict configur ensur surviv commun network inher uncertainti wireless channel model link rout stochast criteria rout select maxim probabl network abil support target commun achiev rate local pointtopoint link maximum surviv probabl rout present futur posit input mobil control modul determin robot trajectori restrict configur ensur probabl network surviv stay minimum reliabl level local trajectori plan propos simpl environ global plan propos complex surround three propos compon integr test experi run two differ environ experiment result show success navig continu endtoend connect"
+  },
+  {
+    "year": "2013",
+    "abstract": "paper propos effici distortionbas privacypreserv meter scheme protect individu custom privaci provid complet power consumpt distribut curv multitud custom without privaci invas propos scheme random nois purpos introduc distort custom power consumpt data smart meter data recoveri becom infeas use power consumpt data prior knowledg ad random nois develop effici algorithm power consumpt distribut reconstruct need power demand analysi predict complet solut scheme also support privacypreserv bill servic use experiment result real world singl household power consumpt data set synthes data larg number household demonstr propos scheme robust known attack sinc demand new facil exist smart grid propos scheme offer practic solut"
+  },
+  {
+    "year": "2013",
+    "abstract": "gb nand flash memori multichip packag mcp includ eight stack gb bitcel multilevel cell mlc die nand bridg chip provid four intern nand channel concurr memori oper bridg chip provid extern v unidirect bytewid pointtopoint sourcesynchron doubl datar ddr interfac low power mb oper ring topolog interfac power reduc shut phaselock loop everi second mcp altern edg align ddr clock center align ddr clock sourcesynchron data transfer mcp mcp"
+  },
+  {
+    "year": "2013",
+    "abstract": "taiwan semiconductor industri profound influenc domest econom global industri enhanc competit expand global impact taiwan govern commenc nation program intellig electron npie promot technolog innov medic electron green electron vehicular car electron convent comput commun consum electron socal applic govern alloc budget million year facilit technolog develop advanc research talent cultiv industri promot intern collabor coordin govern agenc research institut univers corpor npie develop integr framework academia industri taiwan also emphas enhanc product verif regul particip intern allianc standard transfer academ result industri emerg applic expect npie contribut global semiconductor commun energ taiwan ic industri creat innov product intellig system better life better environ"
+  },
+  {
+    "year": "2013",
+    "abstract": "decad heavi invest laboratorybas brain imag neurosci led foundat insight human sens perceiv interact extern world howev argu fundament differ laboratorybas naturalist human behavior may exist thu remain unclear well current knowledg human brain function translat highli dynam real world demonstr success realworld neurotechnolog observ particularli area braincomput interact technolog innov develop date limit small scienc technolog commun posit advanc realworld neuroimag tool use broadbas workforc dramat enhanc neurotechnolog applic potenti radic alter interact across aspect everyday life discuss effort joint governmentacademicindustri team take integr interdisciplinari multiaspect approach translat current technolog devic truli fieldabl across rang environ result initi work describ show promis dramat advanc field rapidli enhanc abil assess brain activ realworld scenario"
+  },
+  {
+    "year": "2013",
+    "abstract": "wireless video surveil system consist three major compon video captur preprocess video compress transmiss wireless sensor network video analysi receiv end myriad research work dedic field due increas popular surveil applic survey provid comprehens overview exist stateoftheart technolog develop wireless video surveil base indepth analysi requir challeng current system specif physic network infrastructur video transmiss wireless channel analyz repres technolog video captur preliminari vision task summar video compress transmiss wireless network ultim goal maxim receiv video qualiti resourc limit also main focu survey classifi differ scheme categori includ unequ error protect error resili scalabl video code distribut video code crosslay control crosslay control prove desir measur systemlevel optim resourc alloc receiv end receiv video process higherlevel vision task secur privaci issu surveil applic also discuss"
+  },
+  {
+    "year": "2013",
+    "abstract": "paper describ compact highperform orthomod transduc omt circular waveguid input two rectangular waveguid output base superimposit three aluminum block sever prototyp oper band ghz atacama larg millimet array fabric measur design base use turnstil junction machin singl block requir neither align high degre mechan toler thu high repeat design possibl mass product across ghz band isol better db return loss input output omt better db"
+  },
+  {
+    "year": "2013",
+    "abstract": "distribut optic fiber sensor gain increasingli promin role structuralhealth monitor compos optic fiber cabl light impuls launch optoelectron devic scatter light interest spectral domain spontan brillouin spectrum center brillouin frequenc relat local strain temperatur chang optic fiber coupl industri brillouin optic timedomain analyz botda optic fiber cabl provid distribut measur strain andor temperatur spatial resolut kilomet cm paper focus function botda devic address problem improv spatial resolut model brillouin spectrum measur within integr base superposit elementari spectra contain base spectral distort phenomenon mathemat explain strain constant within integr base brillouin spectrum compos sever elementari spectra center differ local brillouin frequenc propos sourc separ methodolog approach decompos measur brillouin spectrum spectral compon local brillouin frequenc amplitud relat portion integr base strain constant layout algorithm allow estim strain profil new spatial resolut chosen user numer test enabl find optim paramet provid reduct cm spatial resolut botda devic paramet highlight comparison refer strain profil acquir rayleigh scatter analyz control condit comparison botda strain profil estim strain profil better accuraci centimet spatial resolut"
+  },
+  {
+    "year": "2013",
+    "abstract": "paper consid group drogu whose object estim physic paramet determin dynam ocean nonlinear intern wave intern wave import oceanographi travel capabl displac small anim plankton larva fish wave describ model employ trigonometr function parameter set constant amplitud wavenumb tempor frequenc underwat individu drogu access absolut posit inform reli interdrogu measur build data studi drogu dynam flow induc intern wave design two strategi refer vanish deriv method pass wave method abl determin wavenumb speed ratio either strategi employ paramet determin strategi determin remain wave paramet analyz correct propos strategi discuss robust differ sourc error simul illustr algorithm perform noisi measur well effect differ initi drogu configur"
+  },
+  {
+    "year": "2013",
+    "abstract": "paper introduc selfmanipul new formal design methodolog leg robot vari ground interact term denot set model choic permit uniform bodycentr represent equat guid select configur coordin frame present hybrid system kinemat dynam transit form consist structur represent simplifi unit account otherwis bewilderingli divers differenti algebra equat cleav close possibl model strategi develop within matur manipul literatur selfmanipul model leverag insight result applic clarifi fundament differ primari motiv facilit numer simul rather promot design insight instanti abstract formal simplifi model rhex illustr util appli varieti analyt comput techniqu deriv new result bear behavior control platform design exampl present empir result document specif benefit new insight robot transit stand move place leap"
+  },
+  {
+    "year": "2013",
+    "abstract": "taiwan worldwid leader comput hardwar manufactur mani year cloud comput major paradigm shift industri threaten leadership posit cloud comput drive valu chain increasingli toward system softwar servic major neg impact alreadi margin profit pictur threaten taiwan hardwar manufactur industri taiwan economi whole institut inform industri iii devis strategi technolog call cloud applianc enterpris caf\u00e9 address effect technolog shift caf\u00e9 major initi help tradit taiwanes oemodm vendor transform primarili commod hardwar provid highli profit fullfunct cloud system busi reach worldwid market iii develop key system softwar compon caf\u00e9 technolog compon integr partner hardwar technolog creat applianc deliv cloud infrastructur servic enabl enterpris establish privat cloud thu name caf\u00e9 applianc offer userreadi servic applic provid significantli higher valu custom support higher price hardwar alon therebi increas profit margin taiwanes vendor key taiwan hardwar vendor alreadi adapt caf\u00e9 strategi includ asu delta electron gigabyt win promis technolog develop integr ship cloud applianc incorpor caf\u00e9 technolog compon well technolog caf\u00e9 strategi turn cloud comput challeng golden opportun move industri taiwan toward next horizon videosummari testimonialshttp wwwyoutubecomwatch featureyoutub"
+  },
+  {
+    "year": "2013",
+    "abstract": "futur current highperform comput applic chang adapt node architectur evolv applic advanc architectur simul play crucial role design optim futur data intens applic paper present simulationbas framework analyz scalabl perform number critic optim massiv parallel genom search applic mpiblast use advanc macroscal simul sstmacro report use framework evalu three potenti improv mpiblast enabl highperform parallel output approach cach databas fragment memori methodolog predistribut databas segment experiment setup perform queri sequenc match genom yellow fever mosquito aed aegypti"
+  },
+  {
+    "year": "2013",
+    "abstract": "consid problem adapt design compress measur matric estim timevari spars signal formul problem partial observ markov decis process formul allow us use bellman principl optim implement multistep lookahead design compress measur compar perform adapt versu tradit nonadapt design studi valu multistep nonmyop versu onestep myopic lookahead adapt scheme introduc two variat compress measur design problem first variat consid problem sequenti select measur matric fix dimens prespecifi librari measur matric second variat number compress measur ie number row measur matrix adapt chosen number measur determin matrix entri chosen accord prespecifi adapt scheme two problem judg separ perform criterion gaug effici first problem condit mutual inform spars signal support measur second problem appli linear combin number measur condit mutual inform perform measur sever simul studi effect differ design variou set primari focu simul applic method known rollout howev comput load requir use rollout method also inspir us adapt two data associ heurist compress sens paradigm heurist show promis decreas amount comput propag distribut search optim solut"
+  },
+  {
+    "year": "2013",
+    "abstract": "due rapid growth internet broadband access prolifer modern mobil devic variou type multimedia eg text imag audio video becom ubiquit avail anytim mobil devic user usual store use multimedia content base person interest prefer mobil devic challeng storag limit howev introduc problem mobil multimedia overload user tackl problem research develop variou techniqu recommend multimedia mobil user paper examin import mobil multimedia recommend system perspect three smart commun name mobil social learn mobil event guid contextawar servic cautiou analysi exist research reveal implement proactiv sensorbas hybrid recommend system improv mobil multimedia recommend nevertheless still challeng open issu incorpor context social properti need tackl gener accur trustworthi mobil multimedia recommend"
+  },
+  {
+    "year": "2013",
+    "abstract": "recent decad wit evolut inform technolog develop vlsi technolog commun network infrastructur standard multimedia compress code scheme effect multimedia content search retriev result multimedia devic digit content becom ubiquit path technolog evolut natur led critic issu must address next name ensur content devic intellectu properti use author user legitim purpos abl forens prove high confid otherwis secur compromis intellectu right violat authent forg forens methodolog tool employ reconstruct happen digit content order answer done goal paper provid overview done last decad new emerg field inform forens regard theori methodolog stateoftheart techniqu major applic provid outlook futur"
+  },
+  {
+    "year": "2013",
+    "abstract": "public open data access direct impact futur entrepreneur percept abil execut busi plan use high qualiti respons rate survey data swedish itentrepreneur find access public open data consid import mani itstartup find open data essenti realiz busi plan claim access would support strengthen busi plan survey also indic signific interest willing pay public sector inform data compani intend commerci data intend use support test busi model survey possibl infer previou discours open data view mean govern account egovern foundat commerci public sector inform data limit open data instead seen enabl innov outsid tradit sector also indic previous calcul societ valu open data might underestim"
+  },
+  {
+    "year": "2013",
+    "abstract": "technic progress opensourc self replic rapid prototyp reprap commun enabl distribut form addit manufactur expand rapidli use polymerbas materi howev lack opensourc metal altern high capit cost slow throughput proprietari commerci metal printer sever restrict deploy applic commerci metal printer limit rapid prototyp expens finish product sever restrict access technolog small medium enterpris develop world use laboratori paper report develop metal printer metal printer control opensourc microcontrol combin lowcost commerci gasmet arc welder deriv rostock deltabot reprap bill materi electr mechan design schemat basic construct oper procedur provid preliminari technic analysi properti printer result steel product perform result print custom function metal part discuss conclus drawn potenti technolog futur work necessari mass distribut technolog"
+  },
+  {
+    "year": "2013",
+    "abstract": "new numer techniqu solv nonlinear system initi valu problem nonlinear firstord differenti equat ode model genet network system biolog develop techniqu base find local galerkin approxim subinterv given time grid point use piecewis hat function compar numer solut new method singl nonlinear ode exact solut show method give accur solut rel time new method compar adapt rung kutta ark method solv system ode result compar time shown rel error galerkin method decreas approxim linearli log number hat function use unlik ark method new method potenti paralleliz use solv biolog problem involv larg genet network nsf commiss video illustr system biolog help us understand fundament process cell includ"
+  },
+  {
+    "year": "2013",
+    "abstract": "electromagnet em properti twocompon mixtur involv mani disord regularli irregularli shape crystal studi effect rel permitt calcul util timedomain finit integr techniqu effect permitt disord mixtur deviat establish mix theori especi case high permitt contrast inclus matrix materi strongli correl crosssect area inclus crystal electr energi densiti local edg corner inclus manner independ inclus shape influenc em propag direct surround inclus mixtur disord irregular organ cube inclus energi local increas em signal travel mixtur decreas due attenu propag em signal larg number inclus crystal hundr found impact effect permitt differ individu inclus shape neglig"
+  },
+  {
+    "year": "2013",
+    "abstract": "design sensit improv dual diaphragm base vibrat wire transduc sens pneumat pressur propos improv achiev sensit dual diaphragm structur singl diaphragm categori verifi experi experiment setup effici assess dynam perform pressur transduc present eventu improv sensit conced improv precis resolut instrument vibrat wire transduc base pressur sensor alway show better dynam perform other present dual diaphragm structur offer improv sensit add dynam perform overal perform characterist"
+  },
+  {
+    "year": "2013",
+    "abstract": "paper intend elucid challeng aspect hardwar design futur gener comput use system model stack integr circuit card cool dielectr coolant set equat develop describ relationship system throughput volum power consumpt concern detail intern organ signal power line dimens coolant path width calcul valu throughput volum power project state point graph figuresofmerit pair comput densiti comput effici manipul empir paramet imbed model state point steer follow evolutionari line run point correspond exist supercomput sever gener calcul extend state point futur prospect comput target system throughput result point need research develop effort thermal manag materi develop thermal manag exa zetascal comput need refocu heat transfer research coolant channel larg lengthtowidth ratio sever thousand heat flux channel surfac quit low microfluid guarante stabl coolant flow long microchannel primari import place mean deal high heat flux also need develop novel materi signal transmiss line cool particularli develop zetascal comput"
+  },
+  {
+    "year": "2013",
+    "abstract": "lack good uptod lab experi form major impedi domain engin educ often lab experi outdat virtual lab project address issu lack good lab facil well train teacher make remot experiment possibl pedagogi studentcentr virtual lab project also develop novel methodolog field trial outreach qualiti control virtual lab also provid tremend cost advantag virtual lab project wonder exampl open educ resourc develop multiinstitut multidisciplin project team student current use onlin lab virtual lab project mani lab access outsid regular lab hour"
+  },
+  {
+    "year": "2013",
+    "abstract": "success design softwar intens system siss may improv incorpor experiment part design process paper present scientif approach experiment object unit design behavior aim solv project task conceptu design propos approach base specifi behavior unit preced pseudocod program experi plan reason use design experi regist questionansw form experi support special toolkit"
+  },
+  {
+    "year": "2013",
+    "abstract": "request domest nuclear detect offic dndo studi committe compris repres american physic societi panel public affair ieee nuclear plasma scienc societi perform technic review dndo transform appli research director tard r program tard princip object address gap global nuclear detect architectur gnda improv perform cost oper burden detector system charg studi committe investig exist tard r plan portfolio recommend chang exist plan recommend possibl new r area opportun report result independ detail analysi current r plan includ applic area observ recommend focu futur invest within context tard mission"
+  }
+]
