@@ -1,4 +1,4 @@
-# Stemming-vs-Lemmatizati-on-LDA-Topic-Modelling
+# Stemming-vs-Lemmatization-LDA-Topic-Modelling
 
 📌 Project Description
 
